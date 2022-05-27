@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/gdeep/.dotnet/store/|arch|/|tfm|",
+      "/Users/gdeep/.nuget/packages"
+    ]
+  }
+}

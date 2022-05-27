@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGI2BIMt3IrdaMMjbfpFI6zQU919uUrS2ZXzxizqKFTigPaNfSqWZf/lqAkDD9KhJRLpHny1ch5IRRiCxwXrGQ==",
+  "success": true,
+  "projectFilePath": "/Users/gdeep/Documents/Github-GP/dotnet_core_api/HPlusSport/HPlusSport.ConsoleApp/HPlusSport.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/gdeep/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

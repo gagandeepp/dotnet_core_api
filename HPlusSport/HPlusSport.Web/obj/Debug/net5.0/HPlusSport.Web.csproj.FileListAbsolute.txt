@@ -1,0 +1,119 @@
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/appsettings.Development.json
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/appsettings.json
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.exe
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.deps.json
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.runtimeconfig.json
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.runtimeconfig.dev.json
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.dll
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/ref/HPlusSport.Web.dll
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.pdb
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.Views.dll
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.Views.pdb
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.AssemblyInfoInputs.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.AssemblyInfo.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.csproj.CoreCompileInputs.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.MvcApplicationPartsAssemblyInfo.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorAssemblyInfo.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorAssemblyInfo.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/staticwebassets/HPlusSport.Web.StaticWebAssets.Manifest.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/staticwebassets/HPlusSport.Web.StaticWebAssets.xml
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/scopedcss/bundle/HPlusSport.Web.styles.css
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.TagHelpers.input.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.TagHelpers.output.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorCoreGenerate.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorTargetAssemblyInfo.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorTargetAssemblyInfo.cs
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.Views.pdb
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.dll
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/ref/HPlusSport.Web.dll
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.pdb
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.genruntimeconfig.cache
+D:/Users/cwenz/Documents/work/video/linkedin/courses/ASP.NET Core 3 Web API/Ex_Files_Building_Web_APIs_ASPNET_Core/Exercise Files/End_0604/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.csproj.CopyComplete
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/appsettings.Development.json
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/appsettings.json
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.exe
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.deps.json
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.runtimeconfig.json
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.runtimeconfig.dev.json
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.dll
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/ref/HPlusSport.Web.dll
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.pdb
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.Views.dll
+D:/data/projects/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.Views.pdb
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.csprojAssemblyReference.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.AssemblyInfoInputs.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.AssemblyInfo.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.csproj.CoreCompileInputs.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.MvcApplicationPartsAssemblyInfo.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorAssemblyInfo.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorAssemblyInfo.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/staticwebassets/HPlusSport.Web.StaticWebAssets.Manifest.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/staticwebassets/HPlusSport.Web.StaticWebAssets.xml
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/scopedcss/bundle/HPlusSport.Web.styles.css
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.TagHelpers.input.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.TagHelpers.output.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorCoreGenerate.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorTargetAssemblyInfo.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorTargetAssemblyInfo.cs
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.Views.pdb
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.dll
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/ref/HPlusSport.Web.dll
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.pdb
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.genruntimeconfig.cache
+D:/data/projects/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.csproj.CopyComplete
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/appsettings.Development.json
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/appsettings.json
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.StaticWebAssets.xml
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.deps.json
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.runtimeconfig.json
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.runtimeconfig.dev.json
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.dll
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.pdb
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.Views.dll
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/bin/Debug/net5.0/HPlusSport.Web.Views.pdb
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.csproj.AssemblyReference.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.AssemblyInfoInputs.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.AssemblyInfo.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.csproj.CoreCompileInputs.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorAssemblyInfo.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorAssemblyInfo.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/scopedcss/bundle/HPlusSport.Web.styles.css
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/staticwebassets/HPlusSport.Web.StaticWebAssets.Manifest.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.TagHelpers.input.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.TagHelpers.output.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorCoreGenerate.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorTargetAssemblyInfo.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.RazorTargetAssemblyInfo.cs
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.Views.pdb
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.dll
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/refint/HPlusSport.Web.dll
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.pdb
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.genruntimeconfig.cache
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/ref/HPlusSport.Web.dll
+/Users/gdeep/Documents/Github-GP/HPlusSport/HPlusSport.Web/obj/Debug/net5.0/HPlusSport.Web.csproj.CopyComplete
